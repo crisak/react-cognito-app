@@ -8,7 +8,7 @@ import {
 } from "./services/cognitoServices";
 
 const CLIENT_ID = "4frmj8o67uoclg12f33qjveqp";
-const POOL_ID = "us-east-1_l3KnFvKIP";
+// const POOL_ID = "us-east-1_l3KnFvKIP";
 const USERNAME = "crisak";
 
 const payloadInit = {

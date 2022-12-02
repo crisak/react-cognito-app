@@ -1,5 +1,3 @@
-const timeData = (time) => new Promise((resolve) => setTimeout(resolve, time));
-
 const URL_API = "https://qj0xyceqr2.execute-api.us-east-1.amazonaws.com/default/create-user-test";
 
 export const resentCode = async (username) => {
